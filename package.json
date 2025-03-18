@@ -1,0 +1,19 @@
+{
+  "name": "devtender",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "dev" : "nodemon src/app.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "udit",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
